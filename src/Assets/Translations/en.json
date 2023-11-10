@@ -1,0 +1,288 @@
+﻿{
+  "ok": "Ok",
+  "drawer": {
+    "myTasks": "My Tasks",
+    "myRequests": "My Requests",
+    "aroundMe": "Around Me",
+    "chat": "Chat",
+    "english": "English"
+  },
+  "onBoardingScreen": {
+    "welcome": "Welcome",
+    "thisIsAnExampleText": "This is an example text",
+    "error": "Error",
+    "yourTimeChanges": "Your time changes",
+    "stuckWithCore": "Stuck with a chore and need help?",
+    "createRequest": "Create a new request +",
+    "aroundMe": "Around me",
+    "toAllTasks": "To all tasks"
+  },
+  "signUpScreen": {
+    "signUp": "Sign Up",
+    "enroll": "Enrollment",
+    "theInfoYouEnter": "The details you entered will not appear to other users, other than your name, gender and image",
+    "lastName": "Last Name",
+    "firstName": "First name",
+    "gender": "Gender",
+    "light": "A light",
+    "prefersNotToSpecify": "Prefers not to specify",
+    "other": "other",
+    "woman": "Female",
+    "man": "Male",
+    "phoneNumber": "Phone Number",
+    "email": "Email",
+    "hometown": "Hometown",
+    "agreeTerms": "I agree to the Terms of Use and Privacy",
+    "ok": "OK",
+    "somethingWentWrong": "Sorry, something wrong, try again"
+  },
+  "signInScreen": {
+    "login": "Login",
+    "goodToSeeYou": "Hey, what fun to see you!",
+    "enterMobileVerificationWillBeSent": "You have to enter your mobile number and will be sent to you verification code",
+    "phoneNumber": "Phone Number",
+    "ok": "OK",
+    "firstTimeHereRegister": "Your first time here? Register.",
+    "incorrectPhoneNumber": "The phone number you entered is incorrect. Please try again",
+    "incorrectCode": "The code you entered is wrong. Please try again",
+    "error": "error"
+  },
+  "codeVerificationScreen": {
+    "phoneNumberVerification": "Phone Number Verification",
+    "dontKnow": "Sms sent to: ",
+    "verificationCode": "The verification code",
+    "login": "Login",
+    "didNotReceiveMessage": "Didn't you get a message?",
+    "sendSmsAgain": "Sending a verification code via SMS again",
+    "incorrectCode": "The code you entered is wrong.Please try again",
+    "ok": "OK"
+  },
+  "bankInfoScreen": {
+    "bankInfo": "Bank account information",
+    "forPaymentTimeInvested": "For payment for the time you have invested",
+    "bank": "Bank",
+    "accountNumber": "Account Number",
+    "branchNumber": "Branch number",
+    "fullName": "Full Name",
+    "ok": "OK",
+    "skip": "Skip",
+    "willNeverUse": "We will never be used in your details without your consent"
+  },
+  "creaditCardInfoScreen": {
+    "creditDetails": "Credit details",
+    "toMakeAPayment": "To make a payment to the service provider",
+    "creditNumber": "Credit Number",
+    "cvv": "3 digits in the back of the card",
+    "validity": "Validity",
+    "fullName": "Full Name",
+    "ok": "OK",
+    "skip": "Skip",
+    "willNeverUse": "We will never be used in your details without your consent"
+  },
+  "userReport": {
+    "header": "User report",
+    "boxTitle": "Reason for reporting",
+    "button": "send"
+  },
+  "reportingAbsenceScreen": {
+    "header": "Fault reporting",
+    "box1": "A malfunction occurred during the task",
+    "box2": "Unreasonable delay",
+    "box3": "Service provider did not arrive",
+    "box4": "Other",
+    "button1": "Fault reporting",
+    "button2": "Cancelation"
+  },
+  "reportReceivedScreen": {
+    "approvalButtonText": "Back to my requests",
+    "cancelButtonText": "To the home page",
+    "reportRecevied": "Report Received!",
+    "factorOnBehalf": "Factors on our behalf are clarifying the issue",
+    "homePage": "To the home page",
+    "title": "Report received!",
+    "description": "Factors on our behalf are clarifying the issue Until the end of the inquiry you will not be charged",
+    "malfunction": "Officials on our behalf are investigating the issue. You will not be charged until the end of the investigation"
+  },
+  "paymentForServiceScreen": {
+    "approvalButtonText": "Pay ",
+    "now": " now",
+    "header": "Sending payment to the service provider",
+    "tip1": "10%",
+    "tip2": "15%",
+    "tip3": "20%",
+    "tip4": "Without a Tip",
+    "description": "If no payment is made on your part and a fault report is not received, Payment will be made automatically after 24 hours of the event"
+  },
+  "spInterestedInOurRequestScreen": {
+    "header": "Available service providers",
+    "approvalButtonText": "Beyond chat",
+    "cancelButtonText": "Task coordination"
+  },
+  "requestsDeletionCompletedScreen": {},
+  "chatScreen": {
+    "header": "Chat",
+    "message": "Message",
+    "report": "Report"
+  },
+  "openConversationScreen": {},
+  "MeetingPopup": {
+    "taskCoordination": "Task coordination",
+    "cancelation": "Cancelation",
+    "cancellationCase": "In case of cancellation of the task less than 24 hours before its start (if a service provider is found), a commission of 20% of the reward of the task will be taken"
+  },
+  "ScheduledMeetingScreen": {
+    "compatibleTask": "The task is compatible",
+    "taskMatched": "The task was matched and added to my tasks",
+    "toMyRequests": "To my tasks"
+  },
+  "AlreadyGottenJob": {
+    "OopsMissedIt": "Oops, you missed it",
+    "anotherServiceProvider": "Another service provider has already been given this task",
+    "MyMissions": "For my missions"
+  },
+  "ScheduleMeeting": {
+    "taskDetails": "Task details",
+    "details": "Details",
+    "confirmation": "Task confirmation",
+    "refusal": "Refusal of a task",
+    "performingTask": "When performing the task - be polite and document, as needed",
+    "rewardShown": "Canceling a nomination for a task after coordination less than 48 hours before it starts, may lead to future preventive actions"
+  },
+  "homeScreen": {
+    "welcome": "Welcome",
+    "thisIsAnExampleText": "This is an example text",
+    "error": "Error",
+    "yourTimeChanges": "Your time changes",
+    "stuckWithCore": "Stuck with a chore and need help?",
+    "createRequest": "Create a new request +",
+    "aroundMe": "Around me",
+    "toAllTasks": "To all tasks"
+  },
+  "createRequestScreen": {
+    "createARequest": "Create a request",
+    "category": "Category",
+    "pets": "Pets",
+    "subCategory": "Sub Category",
+    "chooseSubCategory": "Choosing sub -category",
+    "title": "Title",
+    "explainRequest": "Explain about the request",
+    "city": "City",
+    "address": "Address",
+    "allDay": "All day",
+    "beginningTime": "Beginning time",
+    "startDate": "Start Date",
+    "endTime": "End time",
+    "endDate": "End date",
+    "price": "Price",
+    "requestPost": "Request post",
+    "completeCreditCardInfo": "Completing credit information",
+    "creditCardInfoNotExist": "Your credit information does not exist in the system.",
+    "needCreditCardInfoToProceed": "In order for us to charge you on the application, we would love to complete credit information before opening a new request.",
+    "toHome": "To the home page",
+    "enterCreditCardInfo": "Insert credit information",
+    "confirm": "Confirm"
+  },
+  "categoryData": {
+    "homeWork": "Home work",
+    "children": "Children",
+    "pets": "Pets",
+    "helpForElderly": "Help for elderly",
+    "bureaucracy": "Bureaucracy",
+    "vehicle": "Vehicle",
+    "meYou": "I, you and you",
+    "collectionAndShipments": "Collection and shipments",
+    "isolationDisease": "isolationDisease",
+    "general": "General",
+    "other": "Other"
+  },
+  "subCategoryData": {
+    "cookLaundryClean": "Cook, laundary, clean",
+    "babysittingSkills": "Babysitting etc.",
+    "dogWalking": "Dog walking",
+    "medicalTreatmentCleaning": "Medical treatment, cleaning",
+    "helpWith": "Help with a lot of things",
+    "hikingCarTest": "Hiking, car test",
+    "timeSupervision": "Time supervision",
+    "postOfficePharmacy": "Post office, pharmacy",
+    "generalHelpAtHome": "General help at home",
+    "parkingQueuing": "Parking, queuing"
+  },
+  "myRequest": {
+    "list_vendor_bnt": "For a list of available service providers",
+    "removetask": "Remove task"
+  },
+  "welcomeScreen": {
+    "welcome": "Welcome",
+    "yourRegistrationEnded": "Your registration has ended successfully",
+    "needHelp": "Need help? It's time to ask for",
+    "createRequest": "Create a new request",
+    "toHome": "To the home page"
+  },
+  "requestDetailScreen": {
+    "header": "Task details",
+    "applyJob": "Apply",
+    "rewardBeforeFee": "The reward is shown before system fees",
+    "cancel": "Cancel",
+    "chat": "Chat"
+  },
+  "requestDetailDelete": {
+    "header": "Cancel task help",
+    "cancel": "Go back"
+  },
+  "bankAccInfoEdit": {
+    "cancelation": "Cancelation",
+    "keeping": "Save"
+  },
+  "deleteModel": {
+    "delete_title": "Deleting a request",
+    "delete_Model": "Delete the request",
+    "cancel_Model": "Cancel delete"
+  },
+  "toDo": "To Do",
+  "tasksToCoordinate": "Tasks to coordinate",
+  "myTasks": "My tasks",
+  "noTaskToShow": "There are currently no tasks",
+  "thanksForRating": "Thanks for the rating",
+  "itHelpsUs": "It helps us keep quality users in the app",
+  "toHome": "To the home page",
+  "serviceProviderRating": "The service provider rating",
+  "doneToPropertyDamage": "Done to property damage",
+  "serviceProviderRude": "The service provider was rude",
+  "performedNegligentWork": "Performed negligent work",
+  "serviceProviderLate": "The service provider is late",
+  "allfieldsrequired": "All fields are required",
+  "noData": "No data to show",
+  "paymentHasBeenMadeOn": "Payment has been made on",
+  "home": "Home",
+  "gender": "Gender",
+  "hello": "Hello",
+  "all": "All",
+  "pendingforapplicants": "pending for applicants",
+  "pendingcoordinate": "pending coordinate",
+  "cordinatedameeting": "cordinated a meeting",
+  "payment": "Payment",
+  "malfunction": "Malfunction",
+  "myProfile": "My Profile",
+  "logout": "Logout",
+  "bankAccount": "Bank Accounts",
+  "creditCard": "Credit Card",
+  "taskHistory": "Task History",
+  "sendingPayment": "Sending payment and rating",
+  "malfunctionoccurred": "A malfunction occurred",
+  "waitingForAvailableServiceProviders": "Waiting for available service providers",
+  "requestedTasks": "Requested Tasks",
+  "coordinatedmeetings": "Coordinated meetings",
+  "aroundMe": "Tasks around me",
+  "details": "Description",
+  "selectCity": "Select City",
+  "noTask": "There are currently no tasks to perform",
+  "editProfile": "Edit Profile",
+  "noRequest": "There are no open requests",
+  "taskRequestScreen": "Your request is pending. The service requester may contact you via chat",
+  "serviceProvidersInterestedApplication": "requests with interested service providers",
+  "toDos": "To do",
+  "deleteModalErrorText": "In case of cancellation of the task less than 24 hours before its start (if a service provider is found), a commission of 20% of the reward of the task will be taken",
+  "publishRequest": "The request has been published",
+  "publishText": "The request has been published and service providers will be exposed to it, You can see the request in my requests",
+  "toMyRequest": "To my requests"
+}

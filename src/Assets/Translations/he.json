@@ -1,0 +1,289 @@
+﻿{
+  "ok": "בסדר",
+  "drawer": {
+    "myTasks": "המשימות שלי",
+    "myRequests": "הבקשות שלי",
+    "aroundMe": "משימות סביבי",
+    "chat": "צ‘אט",
+    "english": "אינגליש"
+  },
+  "onBoardingScreen": {
+    "welcome": "ברוך הבא",
+    "thisIsAnExampleText": "זהו טקסט דוגמה",
+    "createRequest": "+יצירת בקשה חדשה",
+    "error": "שְׁגִיאָה",
+    "yourTimeChanges": "הזמן שלך משנה",
+    "stuckWithCore": "נתקעת עם מטלה ויש לך צורך בעזרה?",
+    "aroundMe": "משימות סביבי",
+    "toAllTasks": "לכל המשימות"
+  },
+  "signUpScreen": {
+    "signUp": "הירשם",
+    "enroll": "הרשמה",
+    "theInfoYouEnter": "הפרטים שהזנת לא יופיעו למשתמשים אחרים, מלבד השם, המגדר והתמונה שלך",
+    "lastName": "שם משפחה",
+    "firstName": "שם פרטי",
+    "gender": "מגדר",
+    "light": "מאור",
+    "prefersNotToSpecify": "מעדיפ/ה לא לציין",
+    "other": "אחר",
+    "woman": "נקבה",
+    "man": "זכר",
+    "phoneNumber": "מספר טלפון",
+    "email": "אימייל",
+    "hometown": "עיר מגורים",
+    "agreeTerms": "אני מסכימ/ה לתנאי השימוש והפרטיות",
+    "ok": "אישור",
+    "somethingWentWrong": "סליחה, משהו לא תקין, נסו שנית"
+  },
+  "signInScreen": {
+    "login": "התחברות",
+    "goodToSeeYou": "היי, איזה כיף לראות אותך!",
+    "enterMobileVerificationWillBeSent": "יש להזין את מספר הטלפון הנייד שלך ויישלח אלייך קוד אימות",
+    "phoneNumber": "מספר טלפון",
+    "ok": "אישור",
+    "firstTimeHereRegister": "פעם ראשונה שלך פה? להרשמה",
+    "incorrectPhoneNumber": "מספר הטלפון שהזנת שגוי. נא לנסות שנית",
+    "incorrectCode": "הקוד שהזנת שגוי. נא לנסות שנית",
+    "error": "שגיאה"
+  },
+  "codeVerificationScreen": {
+    "phoneNumberVerification": "אימות מספר טלפון",
+    "dontKnow": "SMS נשלח ל:",
+    "verificationCode": "קוד האימות",
+    "login": "התחבר",
+    "didNotReceiveMessage": "לא קיבלת הודעה?",
+    "sendSmsAgain": "שליחת קוד אימות באמצעות SMS שוב",
+    "ok": "אישור",
+    "incorrectCode": "הקוד שהזנת שגוי. נא לנסות שנית"
+  },
+  "bankInfoScreen": {
+    "bankInfo": "פרטי חשבון בנק",
+    "forPaymentTimeInvested": "לקבלת תשלום עבור הזמן שהשקעת",
+    "bank": "בנק",
+    "accountNumber": "מספר חשבון",
+    "branchNumber": "מספר סניף ",
+    "fullName": "שם מלא",
+    "ok": "אישור",
+    "skip": "דלג",
+    "willNeverUse": "אנחנו לעולם לא נעשה שימוש בפרטים שלך ללא הסכמתך"
+  },
+  "creaditCardInfoScreen": {
+    "creditDetails": "פרטי אשראי",
+    "toMakeAPayment": "לביצוע תשלום לנותן השירות",
+    "creditNumber": "מספר אשראי",
+    "cvv": "3 ספרות בגב הכרטיס",
+    "validity": "תוקף",
+    "fullName": "שם מלא",
+    "ok": "אישור",
+    "skip": "דלג",
+    "willNeverUse": "אנחנו לעולם לא נעשה שימוש בפרטים שלך ללא הסכמתך"
+  },
+  "userReport": {
+    "header": "דיווח על משתמש",
+    "boxTitle": "סיבת הדיווח",
+    "button": "שליחה"
+  },
+  "reportingAbsenceScreen": {
+    "header": "דיווח על תקלה",
+    "box1": "התרחשה תקלה בזמן המשימה",
+    "box2": "איחור לא סביר",
+    "box3": "נותן שירות לא הגיע",
+    "box4": "אחר",
+    "button1": "דיווח על תקלה",
+    "button2": "ביטול"
+  },
+  "reportReceivedScreen": {
+    "approvalButtonText": "חזרה לבקשות שלי",
+    "cancelButtonText": "לדף הבית",
+    "reportRecevied": "הדיווח התקבל!",
+    "factorOnBehalf": "גורמים מטעמינו מבררים את הנושא ",
+    "homePage": "לדף הבית",
+    "title": "הדיווח התקבל!",
+    "description": "גורמים מטעמינומברריםאתהנושא עדלסיום הבירורלא תחוייבו",
+    "malfunction": "גורמים מטעמנו מבררים את הנושא. עד לסיום הבירור לא תחויבו"
+  },
+  "paymentForServiceScreen": {
+    "approvalButtonText": "שלם כעת",
+    "now": " עכשיו",
+    "header": "שליחת תשלום לנותן השירות",
+    "tip1": "10%",
+    "tip2": "15%",
+    "tip3": "20%",
+    "tip4": "בלי טיפ",
+    "description": "אם לא יתבצע תשלום מצידך ולא יתקבל דיווח על תקלה, התשלום יתבצע באופן אוטומטי לאחר 24 שעות מזמן האירוע"
+  },
+  "spInterestedInOurRequestScreen": {
+    "header": "נותני שירות זמינים",
+    "approvalButtonText": "תיאום משימה",
+    "cancelButtonText": "מעבר לצ‘אט"
+  },
+  "requestsDeletionCompletedScreen": {},
+  "chatScreen": {
+    "header": "צ‘אט",
+    "message": "הודעה",
+    "report": "דווח"
+  },
+  "openConversationScreen": {},
+  "MeetingPopup": {
+    "taskCoordination": "תיאום משימה",
+    "cancelation": "ביטול",
+    "cancellationCase": "במקרה של ביטול המשימה פחות מ-24 שעות לפני תחילתה (אם נמצא נותן שירות), תילקח עמלה עס 20% מתגמול המשימה"
+  },
+  "ScheduledMeetingScreen": {
+    "compatibleTask": "המשימה תואמה",
+    "taskMatched": "המשימה תואמה ונוספה למשימות שלי",
+    "toMyRequests": "למשימות שלי"
+  },
+  "AlreadyGottenJob": {
+    "OopsMissedIt": "אופס,פספסת",
+    "anotherServiceProvider": "נותן שירות אחר כבר קיבל משימה זו",
+    "MyMissions": "למשימות שלי"
+  },
+  "ScheduleMeeting": {
+    "taskDetails": "פרטי המשימה",
+    "details": "פרטים",
+    "confirmation": "אישור משימה",
+    "refusal": "סירוב משימה",
+    "performingTask": "בעת ביצוע המשימה - נהגו באדיבות ותעדו, בהתאם לצורך",
+    "rewardShown": "ביטול מועמדות למשימה לאחר תיאום פחות מ-48 שעות לפני תחילתה, עלול להוביל לפעולות מניעה עתידיות"
+  },
+  "homeScreen": {
+    "welcome": "ברוך הבא",
+    "thisIsAnExampleText": "זהו טקסט דוגמה",
+    "createRequest": "+יצירת בקשה חדשה",
+    "error": "שגיאה",
+    "yourTimeChanges": "הזמן שלך משנה",
+    "stuckWithCore": "נתקעת עם מטלה ורוצה עזרה?",
+    "aroundMe": "משימות סביבי",
+    "toAllTasks": "לכל המשימות"
+  },
+  "createRequestScreen": {
+    "createARequest": "יצירת בקשה",
+    "category": "קטגוריה",
+    "pets": "חיות מחמד",
+    "subCategory": "תת קטגוריה",
+    "chooseSubCategory": "בחירת תת קטגוריה",
+    "title": "כותרת",
+    "explainRequest": "הסבר על הבקשה",
+    "city": "עיר",
+    "address": "כתובת",
+    "allDay": "כל היום",
+    "beginningTime": "שעת התחלה",
+    "startDate": "תאריך התחלה",
+    "endTime": "שעת סיום",
+    "endDate": "תאריך סיום",
+    "price": "מחיר",
+    "requestPost": "פרסום בקשה",
+    "completeCreditCardInfo": "השלמת פרטי אשראי",
+    "creditCardInfoNotExist": "פרטי האשראי שלך לא קיימים אצלנו במערכת.",
+    "needCreditCardInfoToProceed": " כדי שנוכל לחייב אותך על הבקשה,  נשמח להשלמת פרטי האשראי  לפני  פתיחת בקשה חדשה.",
+    "toHome": "לדף הבית",
+    "enterCreditCardInfo": "להכנסת פרטי אשראי",
+    "confirm": "אישור"
+  },
+  "categoryData": {
+    "homeWork": "מטלות הבית",
+    "children": " ילדים",
+    "pets": "חיות מחמד",
+    "helpForElderly": "עזרה לקשיש",
+    "bureaucracy": " בירוקרטיה",
+    "vehicle": "רכב ",
+    "meYou": "אני, את ואתה",
+    "collectionAndShipments": "איסוף ומשלוחים",
+    "isolationDisease": "בידוד / מחלה",
+    "general": "כללי",
+    "other": " אחר"
+  },
+  "subCategoryData": {
+    "cookLaundryClean": "בישול, כביסה, סידור, ניקיון, תלית מדף, הרכבת רהיט,",
+    "babysittingSkills": "בייביסיטינג, הקפצה לגן/מהגן, לימוד כישורים, תרגול ש.ב., מלווה לנהג צעיר",
+    "dogWalking": "הוצאת כלב לטיול, שמירה על חתול,",
+    "medicalTreatmentCleaning": "ליווי לטיפול רפואי, עזרה כללית בבית, ניקיון, עזרה בקניות,",
+    "helpWith": "עזרה בהסבר/תרגום, עזרה במילוי טפסים, עזרה בהגשת בקשה מקוונת,",
+    "hikingCarTest": "טרמפ, הובלת ציוד, מלווה לנהג צעיר, טסט לרכב, ביקור במוסך,",
+    "timeSupervision": "ליווי לאירוע, השגחה בזמן לימוד, ליווי לטיפול רפואי.",
+    "postOfficePharmacy": " דואר, בית מרקחת",
+    "generalHelpAtHome": " עזרה כללית בבית, איסוף או משלוח, ",
+    "parkingQueuing": "שמירת חניה, שמירת תור, רכישת מוצר בזמן שהות בחול"
+  },
+  "welcomeScreen": {
+    "welcome": "ברוכים הבאים",
+    "yourRegistrationEnded": "הרשמתך הסתיימה בהצלחה",
+    "needHelp": "צריכים עזרה? זה הזמן לבקש",
+    "createRequest": "יצירת בקשה חדשה ",
+    "toHome": "לדף הבית"
+  },
+  "requestDetailScreen": {
+    "header": "פרטי המשימה",
+    "applyJob": "הגשת מועמדות למשימה",
+    "rewardBeforeFee": "התגמול המוצג הוא לפני עמלת מערכת",
+    "cancel": "ביטול מועמדות",
+    "chat": "מעבר לצ‘אט"
+  },
+  "requestDetailDelete": {
+    "header": "ביטול מועמדות למשימה",
+    "cancel": "חזור"
+  },
+  "bankAccInfoEdit": {
+    "cancelation": "ביטול",
+    "keeping": "שמירה"
+  },
+  "deleteModel": {
+    "delete_title": "מחיקת בקשה",
+    "delete_Model": "מחק בקשה",
+    "cancel_Model": "בטל מחיקה"
+  },
+  "myRequest": {
+    "list_vendor_bnt": "לרשימת נותני שירות זמינים"
+  },
+  "toDo": "משימות לביצוע",
+  "tasksToCoordinate": "משימות לתיאום",
+  "myTasks": "המשימות שלי",
+  "noTaskToShow": "כרגע אין משימות",
+  "thanksForRating": "תודה על הדירוג",
+  "itHelpsUs": "זה עוזר לנו לשמור על משתמשים איכותיים באפליקציה",
+  "toHome": "לדף הבית",
+  "serviceProviderRating": "דירוג נותן השירות",
+  "doneToPropertyDamage": "נעשה נזק לרכוש",
+  "serviceProviderRude": "נותן השירות היה גס רוח",
+  "performedNegligentWork": "ביצע עבודה רשלנית",
+  "serviceProviderLate": "נותן השירות איחר",
+  "allfieldsrequired": "כל השדות דרושים",
+  "noData": "אין נתונים להציג",
+  "paymentHasBeenMadeOn": "התשלום בוצע ב",
+  "home": "בית",
+  "gender": "מגדר",
+  "hello": "שלום",
+  "all": "הכל",
+  "somethingWentWrong": "משהו השתבש, אנא דלג על הצעד הזה",
+  "success": "בוצע בהצלחה",
+  "pendingforapplicants": "ממתין לנותני שירות זמינים",
+  "pendingcoordinate": "נותני שירות המעוניינים בבקשה",
+  "cordinatedameeting": "פגישות מתואמות",
+  "payment": "ביצוע צ‘ק אין",
+  "malfunction": " התרחשה תקלה",
+  "myProfile": "פרופיל אישי",
+  "logout": "התנתקות‎",
+  "bankAccount": "פרטי חשבון בנק לקבלת תשלום",
+  "creditCard": "פרטי אשראי לחיוב",
+  "taskHistory": "היסטורית משימות‎",
+  "sendingPayment": "שליחת תשלום ודירוג",
+  "malfunctionoccurred": "התרחשה תקלה",
+  "waitingForAvailableServiceProviders": "ממתין לנותני שירות זמינים",
+  "RequestedTasks": "משימות שקיבלו פניה",
+  "coordinatedmeetings": "פגישות מתואמות",
+  "aroundMe": "משימות סביבי",
+  "details": "פרטים",
+  "selectCity": "בחירת עיר",
+  "noTask": "אין כרגע משימות לביצוע",
+  "editProfile": "עריכת פרופיל אישי",
+  "noRequest": "אין בקשות פתוחות",
+  "taskRequestScreen": "בקשתך לקבלת המשימה בהמתנה. מבקש השירות עשוי לפנות אלייך בצ‘אט",
+  "serviceProvidersInterestedApplication": "משימות שקיבלו פניה‎",
+  "toDos": "משימות לבצע",
+  "deleteModalErrorText": "במקרה של ביטול המשימה פחות מ-24 שעות לפני תחילתה (אם נמצא נותן שירות), תילקח עמלה עס 20% מתגמול המשימה‎",
+  "publishRequest": "הבקשה פורסמה",
+  "publishText": "הבקשה פורסמה ונותני שירות ייחשפו אליה, ניתן לראות את הבקשה בבקשות שלי",
+  "toMyRequest": "לבקשות שלי"
+}
